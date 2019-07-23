@@ -1,0 +1,42 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend-box {
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.mag0 {
+  background: #24a800;
+}
+
+.mag1 {
+  background: #ffff00;
+}
+
+.mag2 {
+  background: #ffd000;
+}
+
+.mag3 {
+  background: #ff9900;
+}
+
+.mag4 {
+  background: #ff0000;
+}
+
+.mag5 {
+  background: #000;
+}
